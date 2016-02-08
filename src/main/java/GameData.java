@@ -1,3 +1,3 @@
 public class GameData {
-		public final String hello = "Hello Dagger";
+    public final String hello = "Hello Dagger";
 }
