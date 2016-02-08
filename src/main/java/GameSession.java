@@ -1,7 +1,6 @@
+import javax.inject.Inject;
+
 public class GameSession {
+		@Inject
 		public GameData data;
-		public GameSession(GameData data) {
-				System.out.println(data.hello);
-				this.data = data;
-		}
 }
